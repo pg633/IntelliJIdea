@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/icu" />
+        <option value="$USER_HOME$/mnt" />
       </list>
     </option>
   </component>
