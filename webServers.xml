@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="78d3bbe9-25c1-4668-a869-0b42cc7bf9af" name="soho-tutor-playground-lz1-test">
+        <fileTransfer rootFolder="/home/tutor" accessType="SFTP" host="soho-tutor-playground-lz1-test" port="22" sshConfigId="78309f94-5061-401c-bf5a-d33c63819dd4" sshConfig="tutor@soho-tutor-playground-lz1-test:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
